@@ -4,7 +4,7 @@ Chatbot that takes as an input a FAQ from a website. The Natural Language Toolki
 
 ## How to
 
-Simply by opening ChatBot.ipynb or using [Jupyter Nbviewer](https://nbviewer.org/github/ElieSDK/Chatbot/blob/main/ChatBot.ipynb)　
+By opening ChatBot.ipynb or using [Jupyter Nbviewer](https://nbviewer.org/github/ElieSDK/Chatbot/blob/main/ChatBot.ipynb)　
 
 ----------------------------------------------------------------------------------------
 
